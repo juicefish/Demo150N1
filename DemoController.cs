@@ -3,7 +3,6 @@
 // 展示用Controller
 public partial class DemoController : UIViewContainer
 {
-    public WorldMapController mapSelectControlller;
     public GameObject goWorld;
     public GameObject goArea01;
     public GameObject goArea02;
